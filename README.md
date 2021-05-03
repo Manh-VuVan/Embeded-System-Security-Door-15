@@ -1,5 +1,13 @@
 # Embeded-System-Security-Door-15
 This is source code Embeded System project. Name project is Security Door by Group 15 - Ha Noi University of Science and Technology.  
+## Introduction  
+
+This source code is run face recognition and is implentmented by Rasberri Pi 3.  
+System: Security Door.  
+
+<div align='center'>
+    <img src="./image/flowchart_system.png" width="80%">
+</div>
 ## Implement  
 Step 1: Create file data with name and guide like this line 43 in the ``` face_recognition.py ``` file.  
 Step 2: Create file with name is "DT" in a link: ``` C:\Users\admim\AppData\Local\Programs\Python ```  
