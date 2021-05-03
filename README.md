@@ -8,6 +8,8 @@ System: Security Door.
 <div align='center'>
     <img src="./image/flowchart_system.png" width="80%">
 </div>  
+
+
 ## Implement   
 Step 1: Create file data with name and guide like this line 43 in the ``` face_recognition.py ``` file.  
 Step 2: Create file with name is "DT" in a link: ``` C:\Users\admim\AppData\Local\Programs\Python ```  
