@@ -11,9 +11,12 @@ System: Security Door.
 
 
 ## Implement   
-Step 1: Create file data with name and guide like this line 43 in the ``` face_recognition.py ``` file.  
-Step 2: Create file with name is "DT" in a link: ``` C:\Users\admim\AppData\Local\Programs\Python ```  
-Step 3: Coppy file ``` haarcascade_frontalface_default.xml``` and push to DT file.  
-Step 4: Modify the store like this line 100 in the ``` face_recognition.py ``` file.  
-Step 5: Download xampp at the link: ``` https://www.apachefriends.org/download.html```    
-Step 6: Run start for Apach and MySQL  
+Step 1: Setup System.  
+Step 2: Install Library  
+```
+pip install -U -r requirements.txt  
+```
+Step 3: At the Terminal  
+```
+python detect_face.py
+```
