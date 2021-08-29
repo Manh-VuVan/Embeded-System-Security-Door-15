@@ -6,7 +6,7 @@ This source code is run face recognition and is implentmented by Rasberri Pi 3.
 System: Security Door.  
 
 <div align='center'>
-    <img src="./image/flowchart_system.png" width="80%">
+    <img src="./Image/flowchart.png" width="80%">
 </div>  
 
 
